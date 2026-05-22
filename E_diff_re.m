@@ -1,5 +1,5 @@
 function [L_0_integral,L_p_integral,L_n_integral,E_0_func,E_p_func,E_n_func] = E_diff_re(number_of_modes_of_L_one_side,L_0,L_p,L_n)
-%E_DIFF_R Summary of this function goes here
+
 
 inputsss = -number_of_modes_of_L_one_side:number_of_modes_of_L_one_side;
 
